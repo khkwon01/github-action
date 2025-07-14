@@ -2,7 +2,10 @@ name: 1.slacknoti
 on:
   schedule:
     - cron: '* * * * *' # Runs every minute
-    
+  push:
+    branches:
+      - main
+
 jobs:
   slacknoti:
     runs-on: ubuntu-latest
