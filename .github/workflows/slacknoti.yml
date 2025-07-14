@@ -10,7 +10,7 @@ jobs:
       - name: Slack Notification
         uses: slackapi/slack-github-action@v1.22.0
         with:
-          payload: '{"text": "Hello, this is a scheduled notification from GitHub Actions!"}'
+          payload: '{"text": "Hello, this is a scheduled notification from GitHub Actions!"}' >> $GITHUB_OUTPUT
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           SLACK_CHANNEL: '#khktest'
