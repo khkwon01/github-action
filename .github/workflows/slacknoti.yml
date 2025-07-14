@@ -1,7 +1,6 @@
 name: 1.slacknoti
 on:
   schedule:
-<<<<<<< Updated upstream
     - cron: '50 * * * *' # Runs every minute
 
 jobs:
