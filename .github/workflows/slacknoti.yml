@@ -1,7 +1,7 @@
 name: 1.slacknoti
 on:
   schedule:
-    - cron: '* * * * *' # Runs every minute
+    - cron: '*/10 * * * *' # Runs every minute
 
 jobs:
   slacknoti:
