@@ -1,7 +1,11 @@
 name: 1.slacknoti
 on:
   schedule:
+<<<<<<< Updated upstream
     - cron: '50 * * * *' # Runs every minute
+=======
+    - cron: '40 * * * *' # Runs every day at midnight
+>>>>>>> Stashed changes
 
 jobs:
   slacknoti:
