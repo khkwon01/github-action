@@ -21,6 +21,11 @@ jobs:
       - name: 파일 생성
         run: |
           echo "test 파일..." > testfile.txt
+      - name: 다른 방법으로 업로드
+        uses: actions/upload-artifact@v3
+        with:
+          name: test
+          path: testfile.txt
       - name: 생성 파일 업로드
         uses: peaceiris/actions-gh-pages@v3
         with:
