@@ -16,6 +16,7 @@ jobs:
           SLACK_CHANNEL: '#khktest'
           SLACK_USERNAME: 'GitHub Actions Bot'
           SLACK_ICON_EMOJI: ':octocat:'
+          
       - name: checkout
         uses: actions/checkout@v3
       - name: 파일 생성
