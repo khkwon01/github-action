@@ -22,6 +22,8 @@ jobs:
       - name: 파일 생성
         run: |
           echo "test 파일..." > testfile.txt
+      - name: 생성 파일 업로드
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GIT_TOKEN }}
           publish_dir: ./
