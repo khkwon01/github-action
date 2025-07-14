@@ -8,14 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Slack Notification
-        uses: slackapi/slack-github-action@v1.22.0
-        with:
-          payload: '{"text": "Hello, this is a scheduled notification from GitHub Actions!"}' 
+        uses: rtCamp/action-slack-notify@v2.2.0
         env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
           SLACK_CHANNEL: '#khktest'
           SLACK_USERNAME: 'GitHub Actions Bot'
           SLACK_ICON_EMOJI: ':octocat:'
+          SLACK_MESSAGE: '테스트 노티'
           
       - name: checkout
         uses: actions/checkout@v3
