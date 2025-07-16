@@ -26,6 +26,8 @@ jobs:
       - name: 파일 생성
         run: |
           echo "test 파일..." > testfile1.txt
+          echo "tag: ${{ github.ref }} >> testfile1.txt
+          echo "tag name: ${{ github.ref_name }} >> testfile1.txt
       - name: 다른 방법으로 업로드
         uses: actions/upload-artifact@v4
         with:
