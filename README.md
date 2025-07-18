@@ -31,7 +31,7 @@
          |
          v
 +--------------------------+
-|  Action / Script 실행    | ← Docker or JavaScript action
+|  Action / Script 실행     | ← Docker or JavaScript action
 +--------------------------+
          |
          v
@@ -41,12 +41,12 @@
          |
          v
 +-------------------+
-|   Job 종료 Signal |
+|   Job 종료 Signal  |
 +-------------------+
          |
          v
 +----------------------+
-| Workflow 결과 리포트 |
+| Workflow 결과 리포트    |
 +----------------------+
 
 ```
