@@ -37,3 +37,6 @@ jobs:
       id: step_two
       run: |
         printf '%s\n' "$action_state" # This will output 'yellow'
+    - name: summary test
+      run: |
+        echo "### Hello world! :rocket:" >> $GITHUB_STEP_SUMMARY
