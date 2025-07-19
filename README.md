@@ -50,6 +50,8 @@
 +----------------------+
 
 ```
+<img width="566" height="449" alt="image" src="https://github.com/user-attachments/assets/14401a18-91c8-476b-9eb4-164b24750a6a" />
+
 
 ### Github Action으로 인한 workflow run 방지
 - commit 메시지 입력할 때 아래와 같이 입력하면 workflow가 skip됨
