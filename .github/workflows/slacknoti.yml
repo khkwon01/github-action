@@ -1,4 +1,4 @@
-name: 1.slacknoti
+name: 1. slacknoti
 on:
   schedule:
     - cron: '0 * * * *' # Runs every minute
@@ -23,6 +23,8 @@ jobs:
           
       - name: checkout
         uses: actions/checkout@v3
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
       - name: 파일 생성
         run: |
           echo "test 파일..." > testfile1.txt
