@@ -19,3 +19,10 @@
 5. workflow 전용함수
 <img width="718" height="383" alt="image" src="https://github.com/user-attachments/assets/b52f5a92-fa56-4c2b-9a22-c24e7ca1b8a2" />
 <img width="711" height="183" alt="image" src="https://github.com/user-attachments/assets/7312a268-aaa3-4ddd-a805-018de3ca72b3" />
+
+- 로그 출력
+<img width="415" height="222" alt="image" src="https://github.com/user-attachments/assets/0157edc8-8f1e-492e-b8e9-c4a41749cc27" />
+
+- 상태 함수
+<img width="738" height="219" alt="image" src="https://github.com/user-attachments/assets/697e9234-544d-45e9-8d7a-c302dde79813" />
+<img width="579" height="166" alt="image" src="https://github.com/user-attachments/assets/456e8de6-cbd0-4e79-8005-c2fda1e4b427" />
