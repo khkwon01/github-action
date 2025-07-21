@@ -4,3 +4,6 @@
 2. 아티팩트
 <img width="317" height="384" alt="image" src="https://github.com/user-attachments/assets/83e8b64b-f467-4b83-b293-bc6d57ed04f3" />
 
+3. 외부에서 manual 호출
+<img width="594" height="609" alt="image" src="https://github.com/user-attachments/assets/72ce7fa3-e49f-4130-9df9-3a0a5f3fb5b7" />
+<img width="657" height="333" alt="image" src="https://github.com/user-attachments/assets/228cc387-713d-45dc-8a60-7c251e4c9fc6" />
