@@ -10,3 +10,12 @@
 
 - 다른 곳에서 호출
   <img width="710" height="196" alt="image" src="https://github.com/user-attachments/assets/e6c7a03c-deda-4f55-a318-4b228e56570d" />
+
+<img width="358" height="180" alt="image" src="https://github.com/user-attachments/assets/11ecc5c5-98bf-4992-9960-792835a2623a" />
+
+4. 동시성 처리
+<img width="614" height="519" alt="image" src="https://github.com/user-attachments/assets/cdbaecbf-a51d-4496-a8d5-a50ae9ec3a84" />
+
+5. workflow 전용함수
+<img width="718" height="383" alt="image" src="https://github.com/user-attachments/assets/b52f5a92-fa56-4c2b-9a22-c24e7ca1b8a2" />
+<img width="711" height="183" alt="image" src="https://github.com/user-attachments/assets/7312a268-aaa3-4ddd-a805-018de3ca72b3" />
