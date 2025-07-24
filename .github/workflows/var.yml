@@ -19,11 +19,12 @@ jobs:
         echo "organization variable : $ORGANIZATION_VAR"
         echo "overridden variable : $OVERRIDE_VAR"
         echo "variable from shell environment : $env_var"
-        echo "secret value : $secrets.test"
+        echo "secret value : $TEST"
       env:
         REPOSITORY_VAR: ${{ vars.REPOSITORY_VAR }}
         ORGANIZATION_VAR: ${{ vars.ORGANIZATION_VAR }}
         OVERRIDE_VAR: ${{ vars.OVERRIDE_VAR }}
+        TEST: ${{ secrets.test }}
         
     - name: ${{ vars.HELLO_WORLD_STEP }}
       if: ${{ vars.HELLO_WORLD_ENABLED == 'true' }}
