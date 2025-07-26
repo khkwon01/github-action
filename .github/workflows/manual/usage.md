@@ -29,3 +29,6 @@
 
 - issue
 <img width="571" height="510" alt="image" src="https://github.com/user-attachments/assets/fd60edb2-66a1-4e4e-bd6f-43c62aecf050" />
+
+- pull request에서 특정 commit 소스 체크아웃
+<img width="399" height="105" alt="image" src="https://github.com/user-attachments/assets/48725e7e-1a74-4fcb-9fd4-d9f2e40af5e3" />
