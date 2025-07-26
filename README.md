@@ -1,3 +1,5 @@
+[![1. slacknoti](https://github.com/khkwon01/github-action/actions/workflows/slacknoti.yml/badge.svg)](https://github.com/khkwon01/github-action/actions/workflows/slacknoti.yml)
+
 ### Github Action 동작 Flow
 ```
 +------------------+
