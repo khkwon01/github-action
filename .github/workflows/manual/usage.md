@@ -26,3 +26,6 @@
 - 상태 함수
 <img width="738" height="219" alt="image" src="https://github.com/user-attachments/assets/697e9234-544d-45e9-8d7a-c302dde79813" />
 <img width="579" height="166" alt="image" src="https://github.com/user-attachments/assets/456e8de6-cbd0-4e79-8005-c2fda1e4b427" />
+
+- issue
+<img width="571" height="510" alt="image" src="https://github.com/user-attachments/assets/fd60edb2-66a1-4e4e-bd6f-43c62aecf050" />
