@@ -59,3 +59,8 @@ steps:
   - run: |
       echo "Do build 단계 1..."
       echo "Build 단계 1 :star:" >> $GIHUB_STEP_SUMMARY
+
+<img width="578" height="174" alt="image" src="https://github.com/user-attachments/assets/24cc50c5-a6f9-4458-9cea-257b6e8ef0fa" />
+<img width="589" height="387" alt="image" src="https://github.com/user-attachments/assets/6e1beae9-3791-4888-9dd8-ac729f64c603" />
+
+
