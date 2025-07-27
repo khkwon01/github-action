@@ -49,5 +49,6 @@
 <img width="645" height="323" alt="image" src="https://github.com/user-attachments/assets/7199e6cf-b26b-4a3e-bb3f-4461399afd1d" />
 
 **11. 로그의 값 마스킹**
+
 <img width="449" height="151" alt="image" src="https://github.com/user-attachments/assets/7782ea7a-b42e-4562-9f6d-35ae27ce7e49" />
 <img width="391" height="86" alt="image" src="https://github.com/user-attachments/assets/041da713-3092-4843-8621-a5e84717897e" />
