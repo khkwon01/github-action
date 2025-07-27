@@ -52,3 +52,10 @@
 
 <img width="449" height="151" alt="image" src="https://github.com/user-attachments/assets/7782ea7a-b42e-4562-9f6d-35ae27ce7e49" />
 <img width="391" height="86" alt="image" src="https://github.com/user-attachments/assets/041da713-3092-4843-8621-a5e84717897e" />
+
+**12. Job 요약정보 출력**
+
+steps:
+  - run: |
+      echo "Do build 단계 1..."
+      echo "Build 단계 1 :star:" >> $GIHUB_STEP_SUMMARY
