@@ -63,4 +63,6 @@ steps:
 <img width="578" height="174" alt="image" src="https://github.com/user-attachments/assets/24cc50c5-a6f9-4458-9cea-257b6e8ef0fa" />
 <img width="589" height="387" alt="image" src="https://github.com/user-attachments/assets/6e1beae9-3791-4888-9dd8-ac729f64c603" />
 
+**13. 커스텀 액션 생성**
+<img width="636" height="491" alt="image" src="https://github.com/user-attachments/assets/2b1be420-6257-484f-9c8f-0bf39d96ea7a" />
 
