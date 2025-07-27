@@ -26,24 +26,28 @@
 <img width="718" height="383" alt="image" src="https://github.com/user-attachments/assets/b52f5a92-fa56-4c2b-9a22-c24e7ca1b8a2" />
 <img width="711" height="183" alt="image" src="https://github.com/user-attachments/assets/7312a268-aaa3-4ddd-a805-018de3ca72b3" />
 
-**- 로그 출력**
+**6. 로그 출력**
 
 <img width="415" height="222" alt="image" src="https://github.com/user-attachments/assets/0157edc8-8f1e-492e-b8e9-c4a41749cc27" />
 
-**- 상태 함수**
+**7. 상태 함수**
 
 <img width="738" height="219" alt="image" src="https://github.com/user-attachments/assets/697e9234-544d-45e9-8d7a-c302dde79813" />
 <img width="579" height="166" alt="image" src="https://github.com/user-attachments/assets/456e8de6-cbd0-4e79-8005-c2fda1e4b427" />
 
-**- issue**
+**8. issue**
 
 <img width="571" height="510" alt="image" src="https://github.com/user-attachments/assets/fd60edb2-66a1-4e4e-bd6f-43c62aecf050" />
 
-**- pull request에서 특정 commit 소스 체크아웃**
+**9. pull request에서 특정 commit 소스 체크아웃**
 
 <img width="399" height="105" alt="image" src="https://github.com/user-attachments/assets/48725e7e-1a74-4fcb-9fd4-d9f2e40af5e3" />
 
-**- debug 메시지 출력 (ACTIONS_STEP_DEBUG 변수 설정)**
+**10. debug 메시지 출력 (ACTIONS_STEP_DEBUG 변수 설정)**
 
 <img width="359" height="70" alt="image" src="https://github.com/user-attachments/assets/49482ecb-0e6e-4243-91f5-816904631cd2" />
 <img width="645" height="323" alt="image" src="https://github.com/user-attachments/assets/7199e6cf-b26b-4a3e-bb3f-4461399afd1d" />
+
+**11. 로그의 값 마스킹**
+<img width="449" height="151" alt="image" src="https://github.com/user-attachments/assets/7782ea7a-b42e-4562-9f6d-35ae27ce7e49" />
+<img width="391" height="86" alt="image" src="https://github.com/user-attachments/assets/041da713-3092-4843-8621-a5e84717897e" />
