@@ -32,3 +32,6 @@
 
 - pull request에서 특정 commit 소스 체크아웃
 <img width="399" height="105" alt="image" src="https://github.com/user-attachments/assets/48725e7e-1a74-4fcb-9fd4-d9f2e40af5e3" />
+
+- debug 메시지 출력
+- <img width="359" height="70" alt="image" src="https://github.com/user-attachments/assets/49482ecb-0e6e-4243-91f5-816904631cd2" />
