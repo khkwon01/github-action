@@ -35,3 +35,4 @@
 
 - debug 메시지 출력 (ACTIONS_STEP_DEBUG 변수 설정)
 <img width="359" height="70" alt="image" src="https://github.com/user-attachments/assets/49482ecb-0e6e-4243-91f5-816904631cd2" />
+<img width="645" height="323" alt="image" src="https://github.com/user-attachments/assets/7199e6cf-b26b-4a3e-bb3f-4461399afd1d" />
