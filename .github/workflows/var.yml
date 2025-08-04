@@ -25,7 +25,7 @@ jobs:
         REPOSITORY_VAR: ${{ vars.REPOSITORY_VAR }}
         ORGANIZATION_VAR: ${{ vars.ORGANIZATION_VAR }}
         OVERRIDE_VAR: ${{ vars.OVERRIDE_VAR }}
-        STG_VAR: ${{ stage.REPOSITORY_VAR }}
+        STG_VAR: ${{ vars.STAGEVAR }}
         TEST: ${{ secrets.test }}
         
     - name: ${{ vars.HELLO_WORLD_STEP }}
